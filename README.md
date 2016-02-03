@@ -30,9 +30,9 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Anko](https://github.com/Kotlin/anko) - Anko is a library which makes Android application development faster and easier. 
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - Kotlin Adaptor for RxJava
 - [Kotter Knife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android.
-- [Koi](https://github.com/mcxiaoke/kotlin-koi) - Kotlin for Android, a lightweight kotlin library, including many useful extensions, async functions and quick adapter.
+- [Koi](https://github.com/mcxiaoke/kotlin-koi) - A lightweight kotlin library for Android, including many useful extensions, async functions and quick adapter.
 - [Wasabi](https://github.com/hhariri/wasabi) - An HTTP Framework
-- [Kara Web Framework](https://github.com/TinyMission/kara)
+- [Kara Web Framework](https://github.com/TinyMission/kara) - Kara is a web framework for the JVM written in Kotlin.
 - [Kovenant](https://github.com/mplatvoet/kovenant) - Promises for Kotlin
 - [KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code
 - [Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android.
