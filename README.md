@@ -82,6 +82,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Exploring the Kotlin standard library](beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/)
 - [Swift is like Kotlin](http://nilhcem.github.io/swift-is-like-kotlin/)
 - [Backlog Android: From Java to Kotlin With Lots of Fun](https://nulab-inc.com/blog/nulab/backlog-android-from-java-to-kotlin-with-lots-of-fun/)
+- [Type-safe Web with Kotlin](https://jaxenter.com/type-safe-web-with-kotlin-106187.html)
 
 
 ## Videos
