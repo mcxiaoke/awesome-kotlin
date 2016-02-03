@@ -19,6 +19,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 - [Kotlin Home](https://kotlinlang.org/)
 - [Kotlin Documents](https://kotlinlang.org/docs/reference/)
+- [Try Kotlin in your Browser](https://try.kotlinlang.org/)
 - [Kotlin Blog](blog.jetbrains.com/kotlin)
 - [Kotlin GitHub](https://github.com/JetBrains/kotlin)
 - [Kotlin Koans](https://github.com/Kotlin/kotlin-koans)
