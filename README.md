@@ -61,6 +61,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kotlin for Android Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers)
 - [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example)
 - [Kotlin101](https://github.com/dodyg/Kotlin101)
+- [kotlin_android_base_framework](https://github.com/nekocode/kotlin_android_base_framework)
 
 
 ## Tutorials
@@ -108,6 +109,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package) - Sublime Text 2 Package for Kotlin Programming Language
 - [language-kotlin](https://atom.io/packages/language-kotlin) - Kotlin language support in Atom
 - [kotlin-plugin-eclipse](https://marketplace.eclipse.org/content/kotlin-plugin-eclipse) - The Kotlin Plugin for Eclipse helps you write, run, debug and test programs in Kotlin language. 
+- [android-parcelable-intellij-plugin-kotlin](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin) - Plugin which generates Android Parcelable boilerplate code in Intellji/Android Studio.
 
 
 
