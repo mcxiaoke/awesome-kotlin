@@ -51,6 +51,10 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Result](https://github.com/kittinunf/Result) - This is a tiny framework for modelling success/failure of operations in Kotlin.
 - [Tornado FX](https://github.com/edvin/tornadofx) - A New JavaFX App Framework for Kotlin.  
 - [Spek](http://jetbrains.github.io/spek) - A Specification Framework for Kotlin
+- [Klutter](https://github.com/kohesive/klutter) - Library of many small useful things
+- [Kovert](https://github.com/kohesive/kovert) - an invisible, super easy and powerful REST and Web framework overt Vert.x or Undertow
+- [Injekt](https://github.com/kohesive/injekt) - native Kotlin dependency injection (object registry style)
+- [Solr-Undertow](https://github.com/kohesive/solr-undertow) - standalone high perforamnce, simple Solr server. Embeddeable as a library.
 
 
 ## Samples
