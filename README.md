@@ -66,7 +66,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example)
 - [Kotlin101](https://github.com/dodyg/Kotlin101)
 - [kotlin_android_base_framework](https://github.com/nekocode/kotlin_android_base_framework)
-
+- [makinGIANTS/Banjen](https://github.com/MakinGiants/android_banjo_tuner): App that plays sounds helping to tune a brazilian banjo.
 
 ## Tutorials
 - [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
