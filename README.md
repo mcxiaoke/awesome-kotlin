@@ -55,6 +55,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kovert](https://github.com/kohesive/kovert) - an invisible, super easy and powerful REST and Web framework overt Vert.x or Undertow
 - [Injekt](https://github.com/kohesive/injekt) - native Kotlin dependency injection (object registry style)
 - [Solr-Undertow](https://github.com/kohesive/solr-undertow) - standalone high perforamnce, simple Solr server. Embeddeable as a library.
+- [KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
 
 
 ## Samples
@@ -66,6 +67,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example)
 - [Kotlin101](https://github.com/dodyg/Kotlin101)
 - [kotlin_android_base_framework](https://github.com/nekocode/kotlin_android_base_framework)
+- [kotlillon](https://github.com/inaka/kotlillon)
 
 
 ## Tutorials
