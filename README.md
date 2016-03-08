@@ -29,7 +29,9 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 ## Libraries
 
 - [Anko](https://github.com/Kotlin/anko) - Anko is a library which makes Android application development faster and easier. 
+- [SQLDelight](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - Kotlin Adaptor for RxJava
+- [KBinding](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin.
 - [Kotter Knife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android.
 - [Koi](https://github.com/mcxiaoke/kotlin-koi) - A lightweight kotlin library for Android, including many useful extensions, async functions and quick adapter.
 - [Wasabi](https://github.com/hhariri/wasabi) - An HTTP Framework
@@ -56,6 +58,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Injekt](https://github.com/kohesive/injekt) - native Kotlin dependency injection (object registry style)
 - [Solr-Undertow](https://github.com/kohesive/solr-undertow) - standalone high perforamnce, simple Solr server. Embeddeable as a library.
 - [KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
+- [Bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux
 
 
 ## Samples
@@ -63,6 +66,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlin-examples](https://github.com/JetBrains/kotlin-examples)
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)
 - [AndroidRivers](https://github.com/dodyg/AndroidRivers)
+- [MaterialAudiobookPlayer](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer)
 - [Kotlin for Android Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers)
 - [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example)
 - [Kotlin101](https://github.com/dodyg/Kotlin101)
@@ -121,7 +125,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Resources
 - [/r/Kotlin](https://www.reddit.com/r/Kotlin/)
-- [Kotlin Trending on Github](https://github.com/trending?l=kotlin)
+- [Kotlin Trending on Github](https://github.com/trending/kotlin?since=monthly)
 
 ## Others
 - [kotlin-for-android-developers-zh](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
