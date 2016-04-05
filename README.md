@@ -72,6 +72,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kotlin101](https://github.com/dodyg/Kotlin101)
 - [kotlin_android_base_framework](https://github.com/nekocode/kotlin_android_base_framework)
 - [kotlillon](https://github.com/inaka/kotlillon)
+- [Today History](https://github.com/MakinGiants/todayhistory): app that shows what happened today in history.
 
 
 ## Tutorials
