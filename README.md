@@ -59,6 +59,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Solr-Undertow](https://github.com/kohesive/solr-undertow) - standalone high perforamnce, simple Solr server. Embeddeable as a library.
 - [KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
 - [Bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux
+- [KotlinTest](https://github.com/kotlintest/kotlintest) - A kotlin test framework inspired by ScalaTest
 
 
 ## Samples
