@@ -55,11 +55,14 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kovert](https://github.com/kohesive/kovert) - an invisible, super easy and powerful REST and Web framework overt Vert.x or Undertow
 - [Injekt](https://github.com/kohesive/injekt) - native Kotlin dependency injection (object registry style)
 - [Solr-Undertow](https://github.com/kohesive/solr-undertow) - standalone high perforamnce, simple Solr server. Embeddeable as a library.
-
+- [Gradle Script Kotlin](https://github.com/gradle/gradle-script-kotlin) - Kotlin language support for Gradle build scripts.
+- [SQLDelight](https://github.com/square/sqldelight) - SQLDelight generates Java models from your SQL CREATE TABLE statements.
+- [Kotgo](https://github.com/nekocode/kotgo) - An android development framework on kotlin using MVP architecture.
 
 ## Samples
 
 - [kotlin-examples](https://github.com/JetBrains/kotlin-examples)
+- [Tachiyomi](https://github.com/inorichi/tachiyomi)
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)
 - [AndroidRivers](https://github.com/dodyg/AndroidRivers)
 - [Kotlin for Android Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers)
@@ -114,8 +117,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [language-kotlin](https://atom.io/packages/language-kotlin) - Kotlin language support in Atom
 - [kotlin-plugin-eclipse](https://marketplace.eclipse.org/content/kotlin-plugin-eclipse) - The Kotlin Plugin for Eclipse helps you write, run, debug and test programs in Kotlin language. 
 - [android-parcelable-intellij-plugin-kotlin](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin) - Plugin which generates Android Parcelable boilerplate code in Intellji/Android Studio.
-
-
+- [CodeGlance](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
 
 ## Resources
 - [/r/Kotlin](https://www.reddit.com/r/Kotlin/)
