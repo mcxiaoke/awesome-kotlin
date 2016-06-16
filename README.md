@@ -20,7 +20,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kotlin Home](https://kotlinlang.org/)
 - [Kotlin Documents](https://kotlinlang.org/docs/reference/)
 - [Try Kotlin in your Browser](https://try.kotlinlang.org/)
-- [Kotlin Blog](blog.jetbrains.com/kotlin)
+- [Kotlin Blog](http://blog.jetbrains.com/kotlin)
 - [Kotlin GitHub](https://github.com/JetBrains/kotlin)
 - [Kotlin Koans](https://github.com/Kotlin/kotlin-koans)
 - [Issue Tracker](https://youtrack.jetbrains.com/issues/KT)
@@ -29,7 +29,9 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 ## Libraries
 
 - [Anko](https://github.com/Kotlin/anko) - Anko is a library which makes Android application development faster and easier. 
+- [SQLDelight](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - Kotlin Adaptor for RxJava
+- [KBinding](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin.
 - [Kotter Knife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android.
 - [Koi](https://github.com/mcxiaoke/kotlin-koi) - A lightweight kotlin library for Android, including many useful extensions, async functions and quick adapter.
 - [Wasabi](https://github.com/hhariri/wasabi) - An HTTP Framework
@@ -58,6 +60,9 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Gradle Script Kotlin](https://github.com/gradle/gradle-script-kotlin) - Kotlin language support for Gradle build scripts.
 - [SQLDelight](https://github.com/square/sqldelight) - SQLDelight generates Java models from your SQL CREATE TABLE statements.
 - [Kotgo](https://github.com/nekocode/kotgo) - An android development framework on kotlin using MVP architecture.
+- [KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
+- [Bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux
+- [KotlinTest](https://github.com/kotlintest/kotlintest) - A kotlin test framework inspired by ScalaTest
 
 ## Samples
 
@@ -65,10 +70,13 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Tachiyomi](https://github.com/inorichi/tachiyomi)
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)
 - [AndroidRivers](https://github.com/dodyg/AndroidRivers)
+- [MaterialAudiobookPlayer](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer)
 - [Kotlin for Android Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers)
 - [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example)
 - [Kotlin101](https://github.com/dodyg/Kotlin101)
 - [kotlin_android_base_framework](https://github.com/nekocode/kotlin_android_base_framework)
+- [kotlillon](https://github.com/inaka/kotlillon)
+- [Today History](https://github.com/MakinGiants/todayhistory): app that shows what happened today in history.
 
 
 ## Tutorials
@@ -79,7 +87,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Building APIs on the JVM Using Kotlin and Spark](http://nordicapis.com/building-apis-on-the-jvm-using-kotlin-and-spark-part-1/)
 - [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit)
 - [Kotlin for cross platform mobile app development](https://robovm.com/kotlin-for-cross-platform-mobile-app-development/)
-
+- [Learn Kotlin while developing an Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 
 ## Articles
 - [Early Impressions of Kotlin](http://natpryce.com/articles/000815.html)
@@ -121,11 +129,12 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Resources
 - [/r/Kotlin](https://www.reddit.com/r/Kotlin/)
-- [Kotlin Trending on Github](https://github.com/trending?l=kotlin)
+- [Kotlin Trending on Github](https://github.com/trending/kotlin?since=monthly)
 
 ## Others
 - [kotlin-for-android-developers-zh](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
 - [Kotlin-in-Chinese](https://www.gitbook.com/book/huanglizhuo/kotlin-in-chinese/details)
+- [Kotlin-Website-CN](https://github.com/cctanfujun/kotlin-web-site-cn)
 - [Kotlin Reference in Chinese](http://www.jianshu.com/notebooks/2822252/latest)
 
 ## License
