@@ -63,6 +63,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
 - [Bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux
 - [KotlinTest](https://github.com/kotlintest/kotlintest) - A kotlin test framework inspired by ScalaTest
+- [kotlin.logging](https://github.com/MicroUtils/kotlin.logging) - A logging framework for Kotlin
 
 ## Samples
 
