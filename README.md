@@ -28,7 +28,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Libraries
 
-- [Anko](https://github.com/Kotlin/anko) - Anko is a library which makes Android application development faster and easier. 
+- [Anko](https://github.com/Kotlin/anko) - Anko is a library which makes Android application development faster and easier.
 - [SQLDelight](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - Kotlin Adaptor for RxJava
 - [KBinding](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin.
@@ -43,7 +43,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kotson](https://github.com/SalomonBrys/Kotson) - Gson for Kotlin, Kotson enables you to parse and write JSON with Google's Gson using a conciser and easier syntax.
 - [Kwery](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
 - [Kotlin NoSQL](https://github.com/cheptsov/kotlin-nosql) - Kotlin NoSQL is a reactive and type-safe DSL for working with NoSQL databases.
-- [Exposed](https://github.com/JetBrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language. 
+- [Exposed](https://github.com/JetBrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language.
 - [Klaxon](https://github.com/cbeust/klaxon) - Klaxon is a lightweight library to parse JSON in Kotlin.
 - [Kobalt ](https://github.com/cbeust/kobalt) - Kobalt is a modern and versatile build system.
 - [KBinding](https://github.com/BennyWang/KBinding) - Android View Model binding framework write in kotlin, base on anko, simple but powerful.
@@ -63,6 +63,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
 - [Bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux
 - [KotlinTest](https://github.com/kotlintest/kotlintest) - A kotlin test framework inspired by ScalaTest
+- [PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library for kotlin on top of sqlite jdbc driver.
 
 ## Samples
 
@@ -114,16 +115,16 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 ## Books
 
 - [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers) - This book is not meant to be a language reference, but a tool for Android developers to learn Kotlin and be able to continue with their own projects by themselves.
-- [Kotlin in Action (MEAP)](https://www.manning.com/books/kotlin-in-action) - Kotlin in Action takes experienced Java developers from the language basics all the way through building applications to run on the JVM and Android devices. 
+- [Kotlin in Action (MEAP)](https://www.manning.com/books/kotlin-in-action) - Kotlin in Action takes experienced Java developers from the language basics all the way through building applications to run on the JVM and Android devices.
 
 
 ## Tools
 - [IntelliJ IDEA 15](https://www.jetbrains.com/idea/download/) - The best Kotlin IDE, support Java, Groovy, Scala and Android development.
-- [dokka](https://github.com/Kotlin/dokka) - Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java. 
+- [dokka](https://github.com/Kotlin/dokka) - Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java.
 - [kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring syntax highlighting and basic indentation
 - [kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package) - Sublime Text 2 Package for Kotlin Programming Language
 - [language-kotlin](https://atom.io/packages/language-kotlin) - Kotlin language support in Atom
-- [kotlin-plugin-eclipse](https://marketplace.eclipse.org/content/kotlin-plugin-eclipse) - The Kotlin Plugin for Eclipse helps you write, run, debug and test programs in Kotlin language. 
+- [kotlin-plugin-eclipse](https://marketplace.eclipse.org/content/kotlin-plugin-eclipse) - The Kotlin Plugin for Eclipse helps you write, run, debug and test programs in Kotlin language.
 - [android-parcelable-intellij-plugin-kotlin](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin) - Plugin which generates Android Parcelable boilerplate code in Intellji/Android Studio.
 - [CodeGlance](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
 
