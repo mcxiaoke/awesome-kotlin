@@ -102,6 +102,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Swift is like Kotlin](http://nilhcem.github.io/swift-is-like-kotlin/)
 - [Backlog Android: From Java to Kotlin With Lots of Fun](https://nulab-inc.com/blog/nulab/backlog-android-from-java-to-kotlin-with-lots-of-fun/)
 - [Type-safe Web with Kotlin](https://jaxenter.com/type-safe-web-with-kotlin-106187.html)
+- [Android development with Kotlin](http://inaka.net/blog/2016/01/15/android-development-with-kotlin/)
+- [KillerTask, the solution to AsyncTask implementation](http://inaka.net/blog/2016/01/25/killertask-the-solution-to-asynctask-implementation/)
 
 
 ## Videos
