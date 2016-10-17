@@ -46,7 +46,6 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Exposed](https://github.com/JetBrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language. 
 - [Klaxon](https://github.com/cbeust/klaxon) - Klaxon is a lightweight library to parse JSON in Kotlin.
 - [Kobalt ](https://github.com/cbeust/kobalt) - Kobalt is a modern and versatile build system.
-- [KBinding](https://github.com/BennyWang/KBinding) - Android View Model binding framework write in kotlin, base on anko, simple but powerful.
 - [jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin classes and data classes.
 - [Kodein](https://github.com/SalomonBrys/Kodein) - Kodein: Kotlin Dependency Injection
 - [KBuilders](https://github.com/Levelmoney/kbuilders) - KBuilders turns your Java builders into beautiful Type-Safe Builders.
@@ -58,7 +57,6 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Injekt](https://github.com/kohesive/injekt) - native Kotlin dependency injection (object registry style)
 - [Solr-Undertow](https://github.com/kohesive/solr-undertow) - standalone high perforamnce, simple Solr server. Embeddeable as a library.
 - [Gradle Script Kotlin](https://github.com/gradle/gradle-script-kotlin) - Kotlin language support for Gradle build scripts.
-- [SQLDelight](https://github.com/square/sqldelight) - SQLDelight generates Java models from your SQL CREATE TABLE statements.
 - [Kotgo](https://github.com/nekocode/kotgo) - An android development framework on kotlin using MVP architecture.
 - [KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
 - [Bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux
