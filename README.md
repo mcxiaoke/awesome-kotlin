@@ -116,6 +116,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 - [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers) - This book is not meant to be a language reference, but a tool for Android developers to learn Kotlin and be able to continue with their own projects by themselves.
 - [Kotlin in Action (MEAP)](https://www.manning.com/books/kotlin-in-action) - Kotlin in Action takes experienced Java developers from the language basics all the way through building applications to run on the JVM and Android devices. 
+- [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin) - Programming Kotlin is aimed at Java developers who want to make the transition to Kotlin. It covers the complete Kotlin language from basic sytax through to concurrency and testing.
 
 
 ## Tools
