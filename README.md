@@ -99,7 +99,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.sxlaz9821)
 - [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
 - [The Kobalt diaries: Android](http://beust.com/weblog/2015/11/04/the-kobalt-diaries-android/)
-- [Exploring the Kotlin standard library](beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/)
+- [Exploring the Kotlin standard library](http://beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/)
 - [Swift is like Kotlin](http://nilhcem.github.io/swift-is-like-kotlin/)
 - [Backlog Android: From Java to Kotlin With Lots of Fun](https://nulab-inc.com/blog/nulab/backlog-android-from-java-to-kotlin-with-lots-of-fun/)
 - [Type-safe Web with Kotlin](https://jaxenter.com/type-safe-web-with-kotlin-106187.html)
