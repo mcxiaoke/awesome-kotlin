@@ -33,6 +33,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 - [SQLDelight](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - Kotlin Adaptor for RxJava
+- [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - Library that is making SharedPreference usage in Kotlin simple and fun.
 - [KBinding](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin.
 - [Kotter Knife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android.
 - [Koi](https://github.com/mcxiaoke/kotlin-koi) - A lightweight kotlin library for Android, including many useful extensions, async functions and quick adapter.
