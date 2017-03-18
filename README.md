@@ -66,6 +66,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux
 - [KotlinTest](https://github.com/kotlintest/kotlintest) - A kotlin test framework inspired by ScalaTest
 - [kotlin.logging](https://github.com/MicroUtils/kotlin.logging) - A logging framework for Kotlin
+- [Kotlin User Onboarding](github.com/edsilfer/android-user-onboarding) - A simple and customizable android onboarding library written in Kotlin matching Material Guidelines.
 
 ## Samples
 
