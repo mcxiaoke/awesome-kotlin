@@ -141,10 +141,10 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kotlin Trending on Github](https://github.com/trending/kotlin?since=monthly)
 
 ## Others
-- [kotlin-for-android-developers-zh](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
+- [kotlin-for-android-developers-zh](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
 - [Kotlin-in-Chinese](https://www.gitbook.com/book/huanglizhuo/kotlin-in-chinese/details)
 - [Kotlin-Website-CN](https://github.com/cctanfujun/kotlin-web-site-cn)
-- [Kotlin Reference in Chinese](http://www.jianshu.com/notebooks/2822252/latest)
+- [Kotlin Reference in Chinese](https://www.kotlincn.net/)
 
 ## License
 
