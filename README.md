@@ -89,7 +89,6 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Tutorials
 - [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
-- [Kotlin for Android Developers](http://www.javaadvent.com/2015/12/kotlin-android.html)
 - [Streamline Android Java Code with Kotlin](http://www.sitepoint.com/streamline-android-java-code-with-kotlin/)
 - [Android development with Kotlin](http://inaka.net/blog/2016/01/15/android-development-with-kotlin/)
 - [Building APIs on the JVM Using Kotlin and Spark](http://nordicapis.com/building-apis-on-the-jvm-using-kotlin-and-spark-part-1/)
@@ -124,6 +123,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers) - This book is not meant to be a language reference, but a tool for Android developers to learn Kotlin and be able to continue with their own projects by themselves.
 - [Kotlin in Action (MEAP)](https://www.manning.com/books/kotlin-in-action) - Kotlin in Action takes experienced Java developers from the language basics all the way through building applications to run on the JVM and Android devices. 
 - [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin) - Programming Kotlin is aimed at Java developers who want to make the transition to Kotlin. It covers the complete Kotlin language from basic sytax through to concurrency and testing.
+- [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin) - Modern Web Development with Kotlin is a book by Denis Kalinin about Web development with Kotlin.
+- [Fundamental Kotlin](http://www.fundamental-kotlin.com/) - Fundamental Kotlin is a book focused on Kotlin programming language and its comparison to Java.
 
 
 ## Tools
