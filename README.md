@@ -27,7 +27,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 
 ## Libraries
-
+- [ktor](https://github.com/Kotlin/ktor) - Kotlin Web backend framework.
 - [KAConf](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
 - [Anko](https://github.com/Kotlin/anko) - Anko is a library which makes Android application development faster and easier. 
 - [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
