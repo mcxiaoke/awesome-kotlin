@@ -72,7 +72,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlin.logging](https://github.com/MicroUtils/kotlin.logging) - A logging framework for Kotlin
 - [KotlinDiscreteMathToolkit](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete math functionalities.
 - [Mystique](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list
-- [Vaadin-On-Kotlin](http://www.vaadinonkotlin.eu/) - A simple way to write full-stack component-oriented web apps
+- [Vaadin-On-Kotlin](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack component-oriented web apps
 
 ## Samples
 
