@@ -72,6 +72,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlin.logging](https://github.com/MicroUtils/kotlin.logging) - A logging framework for Kotlin
 - [KotlinDiscreteMathToolkit](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete math functionalities.
 - [Mystique](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list
+- [Vaadin-On-Kotlin](http://www.vaadinonkotlin.eu/) - A simple way to write full-stack component-oriented web apps
 
 ## Samples
 
@@ -96,6 +97,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit)
 - [Kotlin for cross platform mobile app development](https://robovm.com/kotlin-for-cross-platform-mobile-app-development/)
 - [Learn Kotlin while developing an Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+- [Writing Vaadin WebApps In Kotlin (I~V)](http://mavi.logdown.com/posts/1493627)
 
 ## Articles
 - [Early Impressions of Kotlin](http://natpryce.com/articles/000815.html)
