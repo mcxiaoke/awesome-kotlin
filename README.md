@@ -74,6 +74,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Mystique](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list
 - [Vaadin-On-Kotlin](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack component-oriented web apps
 - [Properlty](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
+- [NoiseView](https://github.com/hypeapps/NoiseView) - Android library written in kotlin that add noise effect to image. 
 
 ## Samples
 
