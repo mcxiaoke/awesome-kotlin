@@ -75,6 +75,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Vaadin-On-Kotlin](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack component-oriented web apps
 - [Properlty](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
 - [NoiseView](https://github.com/hypeapps/NoiseView) - Android library written in kotlin that add noise effect to image. 
+- [GAnalytics](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application
 
 ## Samples
 
