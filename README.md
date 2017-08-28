@@ -141,6 +141,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlin-plugin-eclipse](https://marketplace.eclipse.org/content/kotlin-plugin-eclipse) - The Kotlin Plugin for Eclipse helps you write, run, debug and test programs in Kotlin language. 
 - [android-parcelable-intellij-plugin-kotlin](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin) - Plugin which generates Android Parcelable boilerplate code in Intellji/Android Studio.
 - [CodeGlance](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
+- [kscript](https://github.com/holgerbrandl/kscript) - Enhanced scripting support for Kotlin on *nix-based systems.
 
 ## Resources
 - [/r/Kotlin](https://www.reddit.com/r/Kotlin/)
