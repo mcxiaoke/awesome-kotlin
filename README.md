@@ -75,6 +75,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Properlty](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
 - [NoiseView](https://github.com/hypeapps/NoiseView) - Android library written in kotlin that add noise effect to image. 
 - [GAnalytics](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application
+- [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - Library that is making SharedPreference usage in Kotlin simple and fun.
 
 ## Samples
 
@@ -146,6 +147,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 ## Resources
 - [/r/Kotlin](https://www.reddit.com/r/Kotlin/)
 - [Kotlin Trending on Github](https://github.com/trending/kotlin?since=monthly)
+- [Kotlin Academy](https://blog.kotlin-academy.com/)
 
 ## Others
 - [kotlin-for-android-developers-zh](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
