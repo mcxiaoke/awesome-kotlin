@@ -69,6 +69,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux
 - [KotlinTest](https://github.com/kotlintest/kotlintest) - A kotlin test framework inspired by ScalaTest
 - [kotlin.logging](https://github.com/MicroUtils/kotlin.logging) - A logging framework for Kotlin
+- [Kotlin User Onboarding](github.com/edsilfer/android-user-onboarding) - A simple and customizable android onboarding library written in Kotlin matching Material Guidelines.
 - [KotlinDiscreteMathToolkit](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete math functionalities.
 - [Mystique](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list
 - [Vaadin-On-Kotlin](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack component-oriented web apps
