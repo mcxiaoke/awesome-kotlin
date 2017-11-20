@@ -27,15 +27,17 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 
 ## Libraries
-- [ktor](https://github.com/Kotlin/ktor) - Kotlin Web backend framework.
-- [KAConf](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
+- [FlexboxLayout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 - [Anko](https://github.com/Kotlin/anko) - Anko is a library which makes Android application development faster and easier. 
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines.
+- [RxDownload](https://github.com/ssseasonnn/RxDownload) - A multi-threaded download tool written with RxJava and Kotlin.
 - [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 - [SQLDelight](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - Kotlin Adaptor for RxJava
 - [SuperSLiM](https://github.com/TonicArtos/SuperSLiM) - A layout manager for the RecyclerView
 - [Kotlin/Native](https://github.com/JetBrains/kotlin-native) - a LLVM backend for the Kotlin compiler
 - [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - An easy-to-use animation which can be used for content picking for Android
+- [ktor](https://github.com/Kotlin/ktor) - Kotlin Web backend framework.
 - [KBinding](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin.
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
 - [KotlinPreferencesObject](https://github.com/MarcinMoskala/KotlinPreferencesObject) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun, using single object with fields binded to SharedPreferences.
@@ -45,15 +47,18 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kara Web Framework](https://github.com/TinyMission/kara) - Kara is a web framework for the JVM written in Kotlin.
 - [Kovenant](https://github.com/mplatvoet/kovenant) - Promises for Kotlin
 - [KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code
+- [KAConf](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
 - [Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android.
 - [funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs and patterns for Kotlin
 - [Kotson](https://github.com/SalomonBrys/Kotson) - Gson for Kotlin, Kotson enables you to parse and write JSON with Google's Gson using a conciser and easier syntax.
 - [Kwery](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
 - [kotlin-core](https://github.com/lightningkite/kotlin-core) and its related reposiories - A full framework for making Android apps.  Based on Anko and Kotson.
 - [Kotlin NoSQL](https://github.com/cheptsov/kotlin-nosql) - Kotlin NoSQL is a reactive and type-safe DSL for working with NoSQL databases.
+- [shadow](https://github.com/loopeer/shadow) - Android custom shadow view, can replace your CardView.
 - [Exposed](https://github.com/JetBrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language. 
 - [Klaxon](https://github.com/cbeust/klaxon) - Klaxon is a lightweight library to parse JSON in Kotlin.
-- [Kobalt ](https://github.com/cbeust/kobalt) - Kobalt is a modern and versatile build system.
+- [Kobalt](https://github.com/cbeust/kobalt) - Kobalt is a modern and versatile build system.
+- [Debug Bottle](https://github.com/kiruto/debug-bottle) - Debug Bottle is an Android runtime debug / develop tools written using kotlin language.
 - [jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin classes and data classes.
 - [Kodein](https://github.com/SalomonBrys/Kodein) - Kodein: Kotlin Dependency Injection
 - [KBuilders](https://github.com/Levelmoney/kbuilders) - KBuilders turns your Java builders into beautiful Type-Safe Builders.
@@ -77,6 +82,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [NoiseView](https://github.com/hypeapps/NoiseView) - Android library written in kotlin that add noise effect to image. 
 - [GAnalytics](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application
 - [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - Library that is making SharedPreference usage in Kotlin simple and fun.
+- [LastAdapter](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!
 
 ## Samples
 
@@ -85,13 +91,14 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)
 - [AndroidRivers](https://github.com/dodyg/AndroidRivers)
 - [MaterialAudiobookPlayer](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer)
+- [Lightning Browser](https://github.com/anthonycr/Lightning-Browser)
 - [Kotlin for Android Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers)
 - [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example)
 - [Kotlin101](https://github.com/dodyg/Kotlin101)
 - [kotlin_android_base_framework](https://github.com/nekocode/kotlin_android_base_framework)
 - [kotlillon](https://github.com/inaka/kotlillon)
-- [Today History](https://github.com/MakinGiants/todayhistory): app that shows what happened today in history.
-
+- [Today History](https://github.com/MakinGiants/todayhistory)
+- [tachiyomi](https://github.com/inorichi/tachiyomi)
 
 ## Tutorials
 - [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
@@ -144,6 +151,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [android-parcelable-intellij-plugin-kotlin](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin) - Plugin which generates Android Parcelable boilerplate code in Intellji/Android Studio.
 - [CodeGlance](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
 - [kscript](https://github.com/holgerbrandl/kscript) - Enhanced scripting support for Kotlin on *nix-based systems.
+- [detekt](https://github.com/arturbosch/detekt) - Static code analysis for Kotlin.
 
 ## Resources
 - [/r/Kotlin](https://www.reddit.com/r/Kotlin/)
