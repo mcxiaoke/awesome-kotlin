@@ -99,6 +99,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlillon](https://github.com/inaka/kotlillon)
 - [Today History](https://github.com/MakinGiants/todayhistory)
 - [tachiyomi](https://github.com/inorichi/tachiyomi)
+- [CustomView kotlin with savedstate](https://github.com/TheKhaeng/view-group-savedstate-example)
 
 ## Tutorials
 - [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
