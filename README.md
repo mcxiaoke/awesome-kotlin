@@ -158,6 +158,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [/r/Kotlin](https://www.reddit.com/r/Kotlin/)
 - [Kotlin Trending on Github](https://github.com/trending/kotlin?since=monthly)
 - [Kotlin Academy](https://blog.kotlin-academy.com/)
+- [Curated Kotlin Resources](https://hackr.io/tutorials/learn-kotlin)
 
 ## Others
 - [kotlin-for-android-developers-zh](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
