@@ -84,6 +84,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - Library that is making SharedPreference usage in Kotlin simple and fun.
 - [LastAdapter](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!
 - [FerrisWheelView](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel.
+- [kotlin-result](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations, inspired by Rust, Elm, Haskell & Scala.
 
 ## Samples
 
