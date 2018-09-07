@@ -86,6 +86,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [FerrisWheelView](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel.
 - [Kotlin-Gremlin-OGM](https://github.com/pm-dev/kotlin-gremlin-ogm) - A type-safe object/graph mapping framework for Gremlin enabled graph databases.
 - [DynamoDB-utils](https://github.com/frankfarrell/dynamodb-utils) - Collection of AWS DynamoDB utility functions. Query DSL, table cloner and batch writer. 
+- [KBus](https://github.com/adrielcafe/KBus) - Dead simple EventBus for Android made with Kotlin and RxJava 2.
 
 ## Samples
 
