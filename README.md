@@ -87,6 +87,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kotlin-Gremlin-OGM](https://github.com/pm-dev/kotlin-gremlin-ogm) - A type-safe object/graph mapping framework for Gremlin enabled graph databases.
 - [DynamoDB-utils](https://github.com/frankfarrell/dynamodb-utils) - Collection of AWS DynamoDB utility functions. Query DSL, table cloner and batch writer. 
 - [KBus](https://github.com/adrielcafe/KBus) - Dead simple EventBus for Android made with Kotlin and RxJava 2.
+- [AndroidCoroutineScopes](https://github.com/adrielcafe/AndroidCoroutineScopes) - This lib implements the most common CoroutineScopes used in Android apps.
 
 ## Samples
 
