@@ -61,7 +61,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Debug Bottle](https://github.com/kiruto/debug-bottle) - Debug Bottle is an Android runtime debug / develop tools written using kotlin language.
 - [jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin classes and data classes.
 - [Kodein](https://github.com/SalomonBrys/Kodein) - Kodein: Kotlin Dependency Injection
-- [KBuilders](https://github.com/Levelmoney/kbuilders) - KBuilders turns your Java builders into beautiful Type-Safe Builders.
+- [KBuilders](https://github.com/activedecay/kbuilders) - KBuilders turns your Java builders into beautiful Type-Safe Builders.
 - [Result](https://github.com/kittinunf/Result) - This is a tiny framework for modelling success/failure of operations in Kotlin.
 - [Spek](http://spekframework.org/) - A Specification Framework for Kotlin
 - [Klutter](https://github.com/kohesive/klutter) - Library of many small useful things
@@ -109,10 +109,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 ## Tutorials
 - [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
 - [Streamline Android Java Code with Kotlin](http://www.sitepoint.com/streamline-android-java-code-with-kotlin/)
-- [Android development with Kotlin](http://inaka.net/blog/2016/01/15/android-development-with-kotlin/)
 - [Building APIs on the JVM Using Kotlin and Spark](http://nordicapis.com/building-apis-on-the-jvm-using-kotlin-and-spark-part-1/)
 - [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit)
-- [Kotlin for cross platform mobile app development](https://robovm.com/kotlin-for-cross-platform-mobile-app-development/)
 - [Learn Kotlin while developing an Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 - [Writing Vaadin WebApps In Kotlin (I~V)](http://mavi.logdown.com/posts/1493627)
 
@@ -126,7 +124,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [The Kobalt diaries: Android](http://beust.com/weblog/2015/11/04/the-kobalt-diaries-android/)
 - [Exploring the Kotlin standard library](http://beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/)
 - [Swift is like Kotlin](http://nilhcem.github.io/swift-is-like-kotlin/)
-- [Backlog Android: From Java to Kotlin With Lots of Fun](https://nulab-inc.com/blog/nulab/backlog-android-from-java-to-kotlin-with-lots-of-fun/)
+- [Backlog Android: From Java to Kotlin With Lots of Fun](https://backlog.com/blog/backlog-android-from-java-to-kotlin-with-lots-of-fun/)
 - [Type-safe Web with Kotlin](https://jaxenter.com/type-safe-web-with-kotlin-106187.html)
 - [Kotlin and Algebraic Data Types](https://medium.com/car2godevs/kotlin-adt-74472319962a)
 
