@@ -89,6 +89,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [KBus](https://github.com/adrielcafe/KBus) - Dead simple EventBus for Android made with Kotlin and RxJava 2.
 - [AndroidCoroutineScopes](https://github.com/adrielcafe/AndroidCoroutineScopes) - This lib implements the most common CoroutineScopes used in Android apps.
 - [Gradients](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients
+- [Kanary](https://github.com/SeunAdelekan/Kanary) - A minimalist web framework for building REST APIs in Kotlin/Java.
 
 ## Samples
 
