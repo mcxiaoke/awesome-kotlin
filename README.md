@@ -85,6 +85,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - Library that is making SharedPreference usage in Kotlin simple and fun.
 - [LastAdapter](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!
 - [FerrisWheelView](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel.
+- [kotlin-result](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations, inspired by Rust, Elm, Haskell & Scala.
 - [Kotlin-Gremlin-OGM](https://github.com/pm-dev/kotlin-gremlin-ogm) - A type-safe object/graph mapping framework for Gremlin enabled graph databases.
 - [DynamoDB-utils](https://github.com/frankfarrell/dynamodb-utils) - Collection of AWS DynamoDB utility functions. Query DSL, table cloner and batch writer. 
 - [KBus](https://github.com/adrielcafe/KBus) - Dead simple EventBus for Android made with Kotlin and RxJava 2.
