@@ -48,6 +48,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kovenant](https://github.com/mplatvoet/kovenant) - Promises for Kotlin
 - [KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code
 - [KAConf](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
+- [Stateful](https://github.com/PicsArt/stateful) - Stateful helps you delete all the boilerplate code for saving instance state and lets you forget about saving and restoring your fragment's/activity's state.
 - [Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android.
 - [funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs and patterns for Kotlin
 - [Kotson](https://github.com/SalomonBrys/Kotson) - Gson for Kotlin, Kotson enables you to parse and write JSON with Google's Gson using a conciser and easier syntax.
