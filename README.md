@@ -150,6 +150,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 
 ## Tools
+- [sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
 - [IntelliJ IDEA 15](https://www.jetbrains.com/idea/download/) - The best Kotlin IDE, support Java, Groovy, Scala and Android development.
 - [dokka](https://github.com/Kotlin/dokka) - Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java. 
 - [kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring syntax highlighting and basic indentation
