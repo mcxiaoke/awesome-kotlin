@@ -69,7 +69,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kovert](https://github.com/kohesive/kovert) - an invisible, super easy and powerful REST and Web framework overt Vert.x or Undertow
 - [Injekt](https://github.com/kohesive/injekt) - native Kotlin dependency injection (object registry style)
 - [Solr-Undertow](https://github.com/kohesive/solr-undertow) - standalone high perforamnce, simple Solr server. Embeddeable as a library.
-- [Gradle Script Kotlin](https://github.com/gradle/gradle-script-kotlin) - Kotlin language support for Gradle build scripts.
+- [Gradle Kotlin DSL](https://github.com/gradle/kotlin-dsl) - Kotlin language support for Gradle build scripts.
 - [Kotgo](https://github.com/nekocode/kotgo) - An android development framework on kotlin using MVP architecture.
 - [KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
 - [Bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux
