@@ -131,6 +131,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Backlog Android: From Java to Kotlin With Lots of Fun](https://backlog.com/blog/backlog-android-from-java-to-kotlin-with-lots-of-fun/)
 - [Type-safe Web with Kotlin](https://jaxenter.com/type-safe-web-with-kotlin-106187.html)
 - [Kotlin and Algebraic Data Types](https://medium.com/car2godevs/kotlin-adt-74472319962a)
+- [AdoraHack: Zero to Kotlin Hero](https://adorahack.com/category/kotlin/zero-to-kotlin-hero)
 
 ## Videos
 - [Kotlin: A New Hope in a Java 6 Wasteland](https://realm.io/news/droidcon-michael-pardo-kotlin/)
