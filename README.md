@@ -92,6 +92,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [AndroidCoroutineScopes](https://github.com/adrielcafe/AndroidCoroutineScopes) - This lib implements the most common CoroutineScopes used in Android apps.
 - [Gradients](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients
 - [Kanary](https://github.com/SeunAdelekan/Kanary) - A minimalist web framework for building REST APIs in Kotlin/Java.
+- [Kissme](https://github.com/netguru/Kissme) - Kissme is a multiplatform library providing encrypted key-value storage.
 
 ## Samples
 
