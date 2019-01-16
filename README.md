@@ -165,6 +165,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [detekt](https://github.com/arturbosch/detekt) - Static code analysis for Kotlin.
 
 ## Resources
+- [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
 - [/r/Kotlin](https://www.reddit.com/r/Kotlin/)
 - [Kotlin Trending on Github](https://github.com/trending/kotlin?since=monthly)
 - [Kotlin Academy](https://blog.kotlin-academy.com/)
