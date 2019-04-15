@@ -142,6 +142,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Functional Programming with Kotlin](https://www.youtube.com/watch?v=AhA-Q7MOre0&feature=youtu.be)
 - [I built an app in Kotlin, and my client still paid me](https://www.youtube.com/watch?v=d7BiXy3Qdt8&feature=youtu.be)
 - [Programming Android with Kotlin](https://www.youtube.com/watch?v=011AL3Z6VmM&feature=youtu.be)
+- [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers)
 
 
 ## Books
