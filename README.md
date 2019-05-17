@@ -143,7 +143,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [I built an app in Kotlin, and my client still paid me](https://www.youtube.com/watch?v=d7BiXy3Qdt8&feature=youtu.be)
 - [Programming Android with Kotlin](https://www.youtube.com/watch?v=011AL3Z6VmM&feature=youtu.be)
 - [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers)
-
+- [Building Spring Boot Applications with the Kotlin Programming Language](https://www.manning.com/livevideo/building-spring-boot-applications-with-the-kotlin-programming-language)
 
 ## Books
 
