@@ -136,6 +136,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Type-safe Web with Kotlin](https://jaxenter.com/type-safe-web-with-kotlin-106187.html)
 - [Kotlin and Algebraic Data Types](https://medium.com/car2godevs/kotlin-adt-74472319962a)
 - [AdoraHack: Zero to Kotlin Hero](https://adorahack.com/category/kotlin/zero-to-kotlin-hero)
+- [Why Kotlin Is Better Than Whatever Dumb Language You're Using](https://steve-yegge.blogspot.com/2017/05/why-kotlin-is-better-than-whatever-dumb.html?m=1)
 
 ## Videos
 - [Kotlin: A New Hope in a Java 6 Wasteland](https://realm.io/news/droidcon-michael-pardo-kotlin/)
