@@ -94,7 +94,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Gradients](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients
 - [Kanary](https://github.com/SeunAdelekan/Kanary) - A minimalist web framework for building REST APIs in Kotlin/Java.
 - [Kissme](https://github.com/netguru/Kissme) - Kissme is a multiplatform library providing encrypted key-value storage.
-- [Array](https://arrow-kt.io/) - Arrow is a functional companion to Kotlin's Standard Library around many of Kotlin's pain points.
+- [Arrow](https://arrow-kt.io/) - Arrow is a functional companion to Kotlin's Standard Library around many of Kotlin's pain points.
 
 ## Samples
 
