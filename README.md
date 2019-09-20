@@ -95,6 +95,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kanary](https://github.com/SeunAdelekan/Kanary) - A minimalist web framework for building REST APIs in Kotlin/Java.
 - [Kissme](https://github.com/netguru/Kissme) - Kissme is a multiplatform library providing encrypted key-value storage.
 - [Arrow](https://arrow-kt.io/) - Arrow is a functional companion to Kotlin's Standard Library around many of Kotlin's pain points.
+- [Hoplite](https://github.com/sksamuel/hoplite) - Purely functional config library
 
 ## Samples
 
