@@ -155,6 +155,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin) - Programming Kotlin is aimed at Java developers who want to make the transition to Kotlin. It covers the complete Kotlin language from basic sytax through to concurrency and testing.
 - [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin) - Modern Web Development with Kotlin is a book by Denis Kalinin about Web development with Kotlin.
 - [Fundamental Kotlin](http://www.fundamental-kotlin.com/) - Fundamental Kotlin is a book focused on Kotlin programming language and its comparison to Java.
+- [Effective Kotlin](https://leanpub.com/effectivekotlin/) - Effective Kotlin summarizes the best practices and experiences of the Kotlin community, together with a deep explanation of some lesser-known Kotlin functionalities. All of the best practices are presented as simple rules with detailed explanations.
 
 
 ## Tools
