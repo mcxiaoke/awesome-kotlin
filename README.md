@@ -114,6 +114,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [tachiyomi](https://github.com/inorichi/tachiyomi)
 - [GreenHellCompanionApp](https://github.com/adrielcafe/GreenHellCompanionApp)
 - [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions)
+- [Android modular architecture](https://github.com/VMadalin/kotlin-sample-app)
 
 ## Tutorials
 - [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
@@ -138,6 +139,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kotlin and Algebraic Data Types](https://medium.com/car2godevs/kotlin-adt-74472319962a)
 - [AdoraHack: Zero to Kotlin Hero](https://adorahack.com/category/kotlin/zero-to-kotlin-hero)
 - [Why Kotlin Is Better Than Whatever Dumb Language You're Using](https://steve-yegge.blogspot.com/2017/05/why-kotlin-is-better-than-whatever-dumb.html?m=1)
+- [Android Components Architecture in a Modular Word](https://proandroiddev.com/android-components-architecture-in-a-modular-word-7414a0631969)
 
 ## Videos
 - [Kotlin: A New Hope in a Java 6 Wasteland](https://realm.io/news/droidcon-michael-pardo-kotlin/)
