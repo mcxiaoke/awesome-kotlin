@@ -114,6 +114,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [tachiyomi](https://github.com/inorichi/tachiyomi)
 - [GreenHellCompanionApp](https://github.com/adrielcafe/GreenHellCompanionApp)
 - [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions)
+- [Pokedex App](https://github.com/mrcsxsiq/Kotlin-Pokedex)
 
 ## Tutorials
 - [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
