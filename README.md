@@ -28,6 +28,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Libraries
 - [Valiktor](https://github.com/valiktor/valiktor) - Valiktor is a type-safe, powerful and extensible fluent DSL to validate objects in Kotlin.
+- [Konform](https://github.com/konform-kt/konform) - Konform is a type-safe, multiplatform kotlin object validator with fluent dsl. 
 - [FlexboxLayout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 - [Anko](https://github.com/Kotlin/anko) - Anko is a library which makes Android application development faster and easier. 
 - [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines.
