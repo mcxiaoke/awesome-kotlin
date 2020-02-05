@@ -97,6 +97,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kissme](https://github.com/netguru/Kissme) - Kissme is a multiplatform library providing encrypted key-value storage.
 - [Arrow](https://arrow-kt.io/) - Arrow is a functional companion to Kotlin's Standard Library around many of Kotlin's pain points.
 - [Hoplite](https://github.com/sksamuel/hoplite) - Purely functional config library
+- [kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
 
 ## Samples
 
