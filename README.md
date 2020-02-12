@@ -27,6 +27,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 
 ## Libraries
+
+- [Alpas](https://github.com/alpas/alpas) - The rapid and delightful Kotlin web framework
 - [Valiktor](https://github.com/valiktor/valiktor) - Valiktor is a type-safe, powerful and extensible fluent DSL to validate objects in Kotlin.
 - [Konform](https://github.com/konform-kt/konform) - Konform is a type-safe, multiplatform kotlin object validator with fluent dsl. 
 - [FlexboxLayout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
@@ -101,6 +103,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Samples
 
+- [Alpas Fireplace](https://github.com/alpas/fireplace)
 - [kotlin-examples](https://github.com/JetBrains/kotlin-examples)
 - [Tachiyomi](https://github.com/inorichi/tachiyomi)
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)
@@ -119,6 +122,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Pokedex App](https://github.com/mrcsxsiq/Kotlin-Pokedex)
 
 ## Tutorials
+
+- [Alpas Tutorials](https://dev.to/ashokgelal/let-s-build-a-web-app-from-scratch-to-finish-with-alpas-and-kotlin-29eo)
 - [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
 - [Streamline Android Java Code with Kotlin](http://www.sitepoint.com/streamline-android-java-code-with-kotlin/)
 - [Building APIs on the JVM Using Kotlin and Spark](http://nordicapis.com/building-apis-on-the-jvm-using-kotlin-and-spark-part-1/)
@@ -143,6 +148,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Why Kotlin Is Better Than Whatever Dumb Language You're Using](https://steve-yegge.blogspot.com/2017/05/why-kotlin-is-better-than-whatever-dumb.html?m=1)
 
 ## Videos
+
+- [AlpasCasts](https://alpascasts.com/)
 - [Kotlin: A New Hope in a Java 6 Wasteland](https://realm.io/news/droidcon-michael-pardo-kotlin/)
 - [Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
 - [Functional Programming with Kotlin](https://www.youtube.com/watch?v=AhA-Q7MOre0&feature=youtu.be)
