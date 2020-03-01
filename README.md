@@ -100,6 +100,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Arrow](https://arrow-kt.io/) - Arrow is a functional companion to Kotlin's Standard Library around many of Kotlin's pain points.
 - [Hoplite](https://github.com/sksamuel/hoplite) - Purely functional config library
 - [kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
+- [koin](https://github.com/InsertKoinIO/koin) - A pragmatic lightweight dependency injection framework for Kotlin developers. Written in pure Kotlin, using functional resolution only: no proxy, no code generation, no reflection. 
 
 ## Samples
 
@@ -166,6 +167,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin) - Modern Web Development with Kotlin is a book by Denis Kalinin about Web development with Kotlin.
 - [Fundamental Kotlin](http://www.fundamental-kotlin.com/) - Fundamental Kotlin is a book focused on Kotlin programming language and its comparison to Java.
 - [Effective Kotlin](https://leanpub.com/effectivekotlin/) - Effective Kotlin summarizes the best practices and experiences of the Kotlin community, together with a deep explanation of some lesser-known Kotlin functionalities. All of the best practices are presented as simple rules with detailed explanations.
+- [Kotlin Blueprints](https://www.packtpub.com/application-development/kotlin-blueprints) - a practical guide to help build industry grade web applications (Spring Boot, JavaScript, Node.js), Android, Desktop application using TornadoFX. It also includes building an application with Kotlin Native. It shows how to leverage features of Kotlin in the respective technologies. This book is for developers who already know Kotlin and want to build something using Kotlin for Web/Android/Desktop/Native
 
 
 ## Tools
