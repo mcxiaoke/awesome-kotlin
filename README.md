@@ -182,6 +182,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [CodeGlance](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
 - [kscript](https://github.com/holgerbrandl/kscript) - Enhanced scripting support for Kotlin on *nix-based systems.
 - [detekt](https://github.com/arturbosch/detekt) - Static code analysis for Kotlin.
+- [mkohm/detekt-hint](https://github.com/mkohm/detekt-hint) - Detection of design principle violations as a plugin to detekt.
+
 
 ## Resources
 - [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
