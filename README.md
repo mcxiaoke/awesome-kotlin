@@ -104,6 +104,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web. 
 - [graphql-kotlin-toolkit](https://github.com/AurityLab/graphql-kotlin-toolkit) - GraphQL toolkit for Kotlin (includes code generator and spring boot integration)
 - [MobileUI](https://mobileui.dev) - Cross-platform framework for developing mobile apps (iOS, Android) with native UI in Java and Kotlin. 
+- [TelegramBotAPI](https://insanusmokrassar.github.io/TelegramBotAPI/) - Cross-platform (JVM and JS) library which wrap [Telegram Bots API](https://core.telegram.org/bots/api) using strong-typed, object-oriented and useful way
 
 ## Samples
 
