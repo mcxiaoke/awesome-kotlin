@@ -28,6 +28,16 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Libraries
 
+- [architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
+- [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
+- [Foodium](https://github.com/PatilShreyas/Foodium) - Foodium is a sample food blog Android application 📱 built to demonstrate the use of Modern Android development tools.
+- [DuckDuckGo](https://github.com/duckduckgo/Android) - DuckDuckGo Android App.
+- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - KeePass implementation for android with material design and deluxe features.
+- [Yatopia](https://github.com/YatopiaMC/Yatopia) - The Most Powerful and Feature Rich Minecraft Server Software!
+- [Pokedex](https://github.com/skydoves/Pokedex) - Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [element-android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
+- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android.
+- [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [Alpas](https://github.com/alpas/alpas) - The rapid and delightful Kotlin web framework
 - [Valiktor](https://github.com/valiktor/valiktor) - Valiktor is a type-safe, powerful and extensible fluent DSL to validate objects in Kotlin.
 - [Konform](https://github.com/konform-kt/konform) - Konform is a type-safe, multiplatform kotlin object validator with fluent dsl. 
