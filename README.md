@@ -503,6 +503,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [MobileUI](https://mobileui.dev) - Cross-platform framework for developing mobile apps (iOS, Android) with native UI in Java and Kotlin. 
 - [TelegramBotAPI](https://insanusmokrassar.github.io/TelegramBotAPI/) - Cross-platform (JVM and JS) library which wrap [Telegram Bots API](https://core.telegram.org/bots/api) using strong-typed, object-oriented and useful way
 - [PopKorn](https://github.com/corbella83/PopKorn) - Multiplatform Dependency Injection (JVM, ANDROID, IOS, JS) - Forget about modules and components. DI can be simple.
+- [Codename One](https://www.codenameone.com/) - Cross-platform framework for building native apps for mobile, desktop & web in Kotlin and Java.
 
 ## Applications
 
