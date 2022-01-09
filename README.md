@@ -506,6 +506,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Codename One](https://www.codenameone.com/) - Cross-platform framework for building native apps for mobile, desktop & web in Kotlin and Java.
 - [kotlin-csv](https://github.com/doyaaaaaken/kotlin-csv) - Pure Kotlin CSV Reader/Writer
 - [OPENRNDR](https://github.com/openrndr/) - A Kotlin/JVM library for creative coding, real-time and interactive graphics.
+- [kotlin-semver](https://github.com/z4kn4fein/kotlin-semver) - Semantic Versioning library for Kotlin Multiplatform.
 
 ## Applications
 
