@@ -556,6 +556,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) - This is a movies sample app in Kotlin.
 - [material-components-android-examples](https://github.com/material-components/material-components-android-examples) - Companion example apps and code for MDC-Android.
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language
+- [Sudoscan](https://github.com/pintowar/sudoscan) - Scans and solves Sudoku Puzzles from images using AI
 - [Alpas Fireplace](https://github.com/alpas/fireplace)
 - [kotlin-examples](https://github.com/JetBrains/kotlin-examples)
 - [Tachiyomi](https://github.com/inorichi/tachiyomi)
