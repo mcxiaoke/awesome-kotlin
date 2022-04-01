@@ -651,6 +651,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kotlin-in-Chinese](https://www.gitbook.com/book/huanglizhuo/kotlin-in-chinese/details)
 - [Kotlin-Website-CN](https://github.com/cctanfujun/kotlin-web-site-cn)
 - [Kotlin Reference in Chinese](https://www.kotlincn.net/)
+- [jetpack compose](https://blog.canopas.com/jetpack-compose-mvvm-state-management-in-a-simple-way-4c632fa6f554) - We all want to simplify state management. Be it a life or application or a screen, limiting mutable states that a component can be in, benefits everyone.
 
 ## License
 
