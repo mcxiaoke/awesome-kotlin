@@ -507,6 +507,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlin-csv](https://github.com/doyaaaaaken/kotlin-csv) - Pure Kotlin CSV Reader/Writer
 - [OPENRNDR](https://github.com/openrndr/) - A Kotlin/JVM library for creative coding, real-time and interactive graphics.
 - [kotlin-semver](https://github.com/z4kn4fein/kotlin-semver) - Semantic Versioning library for Kotlin Multiplatform.
+- [IntroShowCaseView](https://github.com/canopas/Intro-showcase-view) - IntroShowCaseView is an android library to highlight different features of the app built using Jetpack Compose.
 
 ## Applications
 
