@@ -619,6 +619,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Effective Kotlin](https://leanpub.com/effectivekotlin/) - Effective Kotlin summarizes the best practices and experiences of the Kotlin community, together with a deep explanation of some lesser-known Kotlin functionalities. All of the best practices are presented as simple rules with detailed explanations.
 - [Kotlin Blueprints](https://www.packtpub.com/application-development/kotlin-blueprints) - a practical guide to help build industry grade web applications (Spring Boot, JavaScript, Node.js), Android, Desktop application using TornadoFX. It also includes building an application with Kotlin Native. It shows how to leverage features of Kotlin in the respective technologies. This book is for developers who already know Kotlin and want to build something using Kotlin for Web/Android/Desktop/Native
 -  [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin) - Master techniques and concepts of functional programming to deliver safer, simpler, and more effective Kotlin code.
+-  [Kotlin in Action, Second Edition](https://www.manning.com/books/kotlin-in-action-second-edition) - A book about Kotlin with expert guidance and amazing examples from core Kotlin’s developers.
 
 
 ## Tools
