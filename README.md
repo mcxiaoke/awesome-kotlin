@@ -605,6 +605,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Videos
 
+- [Kotlin @ YouTube](https://www.youtube.com/kotlin)
 - [AlpasCasts](https://alpascasts.com/)
 - [Kotlin: A New Hope in a Java 6 Wasteland](https://realm.io/news/droidcon-michael-pardo-kotlin/)
 - [Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
