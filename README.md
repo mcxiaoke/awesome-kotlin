@@ -286,7 +286,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlin-statistics](https://github.com/thomasnield/kotlin-statistics) - Idiomatic statistical operators for Kotlin
 - [News](https://github.com/AkshayChordiya/News) - A sample News 🗞 app built using Modern Android Development [Architecture Components, Coroutines, Retrofit, Room, Kotlin, Dagger]
 - [stripe-android](https://github.com/stripe/stripe-android) - Stripe Android SDK    
-- [korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine
+- [KorGE](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine
 - [libaums](https://github.com/magnusja/libaums) - Open source library to access USB Mass Storage devices on Android without rooting your device
 - [proton-mail-android](https://github.com/ProtonMail/proton-mail-android) - ProtonMail Android app
 - [kotlin-wrappers](https://github.com/JetBrains/kotlin-wrappers) - Kotlin wrappers for popular JavaScript libraries
@@ -546,7 +546,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) - 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way
 - [kotlin-examples](https://github.com/Kotlin/kotlin-examples) - Various examples for Kotlin
 - [architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-- [architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components. 
+- [architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
+- [Candy-Crush-Clone](https://github.com/TobseF/Candy-Crush-Clone) - 🎮🍭 A Kotlin Multiplatform match 3 sample game build with [KorGE](https://github.com/korlibs/korge) 
 - [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [cheesesquare](https://github.com/chrisbanes/cheesesquare) - Demos the new Android Design library.
 - [sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
