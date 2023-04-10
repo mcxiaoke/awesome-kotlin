@@ -509,6 +509,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlin-semver](https://github.com/z4kn4fein/kotlin-semver) - Semantic Versioning library for Kotlin Multiplatform.
 - [IntroShowCaseView](https://github.com/canopas/Intro-showcase-view) - IntroShowCaseView is an android library to highlight different features of the app built using Jetpack Compose.
 - [ShapeShift](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
+- [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ## Applications
 
