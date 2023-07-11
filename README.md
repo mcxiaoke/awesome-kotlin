@@ -511,6 +511,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [ShapeShift](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 - [kotliny.network](https://github.com/corbella83/kotliny.network) - Simple, powerful and lightweight Kotlin Multiplatform Network Client (JVM, ANDROID, IOS)
+- [Wavy Slider](https://github.com/mahozad/wavy-slider) - A demo (and usable) multiplatform Compose library that shows how to make a UI component targeting multiple platforms
 
 ## Applications
 
