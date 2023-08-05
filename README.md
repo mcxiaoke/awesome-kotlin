@@ -513,6 +513,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotliny.network](https://github.com/corbella83/kotliny.network) - Simple, powerful and lightweight Kotlin Multiplatform Network Client (JVM, ANDROID, IOS)
 - [Kim - Kotlin Image Metadata](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata (JVM, ANDROID, IOS)
 - [XMP Core for Kotlin Multiplatform](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform library for reading and writing XMP files (JVM, ANDROID, IOS)
+- [Wavy Slider](https://github.com/mahozad/wavy-slider) - A demo (and usable) multiplatform Compose library that shows how to make a UI component targeting multiple platforms
 
 ## Applications
 
