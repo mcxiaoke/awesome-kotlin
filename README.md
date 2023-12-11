@@ -515,6 +515,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [XMP Core for Kotlin Multiplatform](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform library for reading and writing XMP files (JVM, ANDROID, IOS)
 - [Wavy Slider](https://github.com/mahozad/wavy-slider) - A demo (and usable) multiplatform Compose library that shows how to make a UI component targeting multiple platforms
 - [KStateMachine](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
+- [RichEditor](https://github.com/canopas/rich-editor-compose)
+- [AnimatedBottomBarCompose](https://github.com/canopas/compose-animated-navigationbar)
 
 ## Applications
 
