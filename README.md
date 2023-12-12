@@ -517,9 +517,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [KStateMachine](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 - [RichEditor](https://github.com/canopas/rich-editor-compose)
 - [AnimatedBottomBarCompose](https://github.com/canopas/compose-animated-navigationbar)
-- [Wow](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 - [CoSky](https://github.com/Ahoo-Wang/CoSky) - High-performance, low-cost microservice governance platform. Service Discovery and Configuration Service.
-
+- [Wow](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 
 ## Applications
 
