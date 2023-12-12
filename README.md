@@ -518,6 +518,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [RichEditor](https://github.com/canopas/rich-editor-compose)
 - [AnimatedBottomBarCompose](https://github.com/canopas/compose-animated-navigationbar)
 - [CoSky](https://github.com/Ahoo-Wang/CoSky) - High-performance, low-cost microservice governance platform. Service Discovery and Configuration Service
+- [CoSec](https://github.com/Ahoo-Wang/CoSec) - RBAC-based And Policy-based Multi-Tenant Security Framework.
 
 ## Applications
 
