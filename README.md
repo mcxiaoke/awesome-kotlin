@@ -653,6 +653,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kscript](https://github.com/holgerbrandl/kscript) - Enhanced scripting support for Kotlin on *nix-based systems.
 - [detekt](https://github.com/arturbosch/detekt) - Static code analysis for Kotlin.
 - [detekt-hint](https://github.com/mkohm/detekt-hint) - Detection of design principle violations as a plugin to detekt.
+- [KTM](https://github.com/L-Briand/KTM) - Mustache template engine in kotlin multiplatform.
 
 ## Resources
 - [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
