@@ -520,6 +520,10 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [CoSec](https://github.com/Ahoo-Wang/CoSec) - RBAC-based And Policy-based Multi-Tenant Security Framework.
 - [CoSky](https://github.com/Ahoo-Wang/CoSky) - High-performance, low-cost microservice governance platform. Service Discovery and Configuration Service.
 - [Wow](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
+- [dotenv-kotlin](https://github.com/cdimascio/dotenv-kotlin) - Dotenv is a module that loads environment variables from a .env file
+- [kotlindl](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
+- [multik](https://github.com/Kotlin/multik) - Multidimensional array library for Kotlin
+- 
 
 ## Applications
 
@@ -653,6 +657,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kscript](https://github.com/holgerbrandl/kscript) - Enhanced scripting support for Kotlin on *nix-based systems.
 - [detekt](https://github.com/arturbosch/detekt) - Static code analysis for Kotlin.
 - [detekt-hint](https://github.com/mkohm/detekt-hint) - Detection of design principle violations as a plugin to detekt.
+- [kotlin-jupyter](https://github.com/Kotlin/kotlin-jupyter) - Kotlin kernel for Jupyter/IPython
 
 ## Resources
 - [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
