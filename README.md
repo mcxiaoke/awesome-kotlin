@@ -283,7 +283,6 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [AndroidVeil](https://github.com/skydoves/AndroidVeil) - :performing_arts: An easy, flexible way to implement veil skeletons and shimmering effect for Android.
 - [AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
 - [slidetoact](https://github.com/cortinico/slidetoact) - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin 📱🎨🦄
-- [kotlin-statistics](https://github.com/thomasnield/kotlin-statistics) - Idiomatic statistical operators for Kotlin
 - [News](https://github.com/AkshayChordiya/News) - A sample News 🗞 app built using Modern Android Development [Architecture Components, Coroutines, Retrofit, Room, Kotlin, Dagger]
 - [stripe-android](https://github.com/stripe/stripe-android) - Stripe Android SDK    
 - [KorGE](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine
