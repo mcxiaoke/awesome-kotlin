@@ -391,6 +391,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [MaterialPopupMenu](https://github.com/zawadz88/MaterialPopupMenu) - Shows Material popup menus grouped in sections & more
 - [ElasticView](https://github.com/armcha/ElasticView) - Elastic view is a regular CardView, which can flex from user touches
 - [klock](https://github.com/korlibs/klock) - Multiplatform Date and time library for Kotlin
+- [Java Time Fun](https://github.com/seljabali/java-time-fun) - Java.time Kotlin extension functions library.
 - [android-junit5](https://github.com/mannodermaus/android-junit5) - Testing with JUnit 5 for Android.
 - [FingerprintManager](https://github.com/JesusM/FingerprintManager) - A small library to handle Android fingerprint API.
 - [kotlin-algorithm-club](https://github.com/bmaslakov/kotlin-algorithm-club) - Algorithms and data structures in Kotlin.
