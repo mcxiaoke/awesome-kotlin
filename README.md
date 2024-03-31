@@ -382,6 +382,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [ChatMessageView](https://github.com/bassaer/ChatMessageView) - Chat UI library for Android :zap:
 - [kweb-core](https://github.com/kwebio/kweb-core) - A lightweight Kotlin web framework for backend developers 🦆
 - [kotlin-math](https://github.com/romainguy/kotlin-math) - Set of Kotlin APIs to make graphics math easier to write
+- [Math Common](https://github.com/eriksencosta/math-common) - Math conventions to reduce boilerplate code on rounding and exponentiation
+- [Percentage](https://github.com/eriksencosta/math-percentage) Percentage calculations made easy
 - [spring-boot-kotlin-demo](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Spring Boot Kotlin project with a REST Webservice and Spring Data
 - [ChangeDetection](https://github.com/bernaferrari/ChangeDetection) - Automatically track websites changes on Android in background.
 - [dependency-tree-diff](https://github.com/JakeWharton/dependency-tree-diff) - An intelligent diff tool for the output of Gradle's dependencies task
