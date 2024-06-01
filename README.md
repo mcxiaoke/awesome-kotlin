@@ -503,6 +503,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [dotenv-kotlin](https://github.com/cdimascio/dotenv-kotlin) - Dotenv is a module that loads environment variables from a .env file
 - [kotlindl](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
 - [multik](https://github.com/Kotlin/multik) - Multidimensional array library for Kotlin
+- [compose-menu](https://github.com/composablehorizons/compose-menu/) – An unstyled Menu (Dropdown) Compose Multiplatform component with keyboard navigation and animation support.
 - 
 
 ## Applications
