@@ -504,7 +504,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlindl](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
 - [multik](https://github.com/Kotlin/multik) - Multidimensional array library for Kotlin
 - [compose-menu](https://github.com/composablehorizons/compose-menu/) – An unstyled Menu (Dropdown) Compose Multiplatform component with keyboard navigation and animation support.
-- 
+- [Kotlin/Native Runtime for AWS Lambda](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
 
 ## Applications
 
