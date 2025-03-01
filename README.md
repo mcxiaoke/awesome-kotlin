@@ -29,7 +29,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Libraries
 
-
+- [Hexagon Toolkit](https://hexagontk.com) - Microservices toolkit written in Kotlin. Its purpose is to ease the building of server applications.
 - [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
