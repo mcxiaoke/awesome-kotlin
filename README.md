@@ -509,6 +509,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [compose-menu](https://github.com/composablehorizons/compose-menu/) – An unstyled Menu (Dropdown) Compose Multiplatform component with keyboard navigation and animation support.
 - [Kotlin/Native Runtime for AWS Lambda](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
 - [DocxKtm](https://github.com/alexmaryin/docxktm) - Create from scratch, open and edit DOCX files, populate templates with intuitive DSL or MVEL evaluations like in docxtpl for python
+- [mutflow](https://github.com/anschnapp/mutflow) - Lightweight mutation testing that compiles once and runs directly in your test suite - implemented as a Kotlin K2 compiler plugin.
 
 ## Applications
 
@@ -668,7 +669,6 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [detekt-hint](https://github.com/mkohm/detekt-hint) - Detection of design principle violations as a plugin to detekt.
 - [kotlin-jupyter](https://github.com/Kotlin/kotlin-jupyter) - Kotlin kernel for Jupyter/IPython
 - [StringSwitch](https://stringswitch.com) - Easily convert Android strings.xml format to iOS .strings files and vice versa.
-- [mutflow](https://github.com/anschnapp/mutflow) - Lightweight mutation testing that compiles once and runs directly in your test suite - implemented as a Kotlin K2 compiler plugin.
 
 ## Resources
 - [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
