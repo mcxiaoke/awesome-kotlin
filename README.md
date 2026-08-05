@@ -194,6 +194,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
 - [TimberX](https://github.com/naman14/TimberX) - Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding) 
 - [jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
+- [lirp](https://github.com/octaviospain/lirp) - Lightweight Reactive Persistence - Elegant object thinking with Domain Driven Design to persist objects reactively.
 - [tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
 - [CatLoadingView](https://github.com/Rogero0o/CatLoadingView) - Android CatLoadingView
 - [input-mask-android](https://github.com/RedMadRobot/input-mask-android) - User input masking library repo.
