@@ -511,6 +511,10 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kotlin/Native Runtime for AWS Lambda](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
 - [DocxKtm](https://github.com/alexmaryin/docxktm) - Create from scratch, open and edit DOCX files, populate templates with intuitive DSL or MVEL evaluations like in docxtpl for python
 - [mutflow](https://github.com/anschnapp/mutflow) - Lightweight mutation testing that compiles once and runs directly in your test suite - implemented as a Kotlin K2 compiler plugin.
+- [kmp-webview](https://github.com/HarlonWang/kmp-webview) - Batteries-included WebView SDK for Kotlin Multiplatform with UI scaffolding and a JS bridge.
+- [quickjs-kmp](https://github.com/HarlonWang/quickjs-kmp) - Kotlin Multiplatform bindings for the QuickJS JavaScript engine.
+- [eventbase-kt](https://github.com/HarlonWang/eventbase-kt) - Kotlin Multiplatform analytics client with typed events, an offline queue and batched upload.
+- [loginbase-kt](https://github.com/HarlonWang/loginbase-kt) - Kotlin Multiplatform auth client with email OTP, social OAuth and automatic token refresh.
 
 ## Applications
 
@@ -550,6 +554,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
 - [susi_android](https://github.com/fossasia/susi_android) - SUSI.AI Android App https://play.google.com/apps/testing/ai.susi
 - [SdkSearch](https://github.com/JakeWharton/SdkSearch) - An Android app and Chrome extension for searching the Android SDK documentation.
+- [TrendingAI](https://github.com/HarlonWang/TrendingAI) - Global tech trends from GitHub Trending, Hacker News and Product Hunt, picked by AI. Kotlin Multiplatform + Compose Multiplatform (Android & iOS).
 
 ## Samples
 
