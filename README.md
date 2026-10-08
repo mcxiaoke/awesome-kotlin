@@ -210,6 +210,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [CircleMenu](https://github.com/ImangazalievM/CircleMenu) - CircleMenu is a simple, elegant menu with a circular layout.
 - [apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin
+- [Baton](https://github.com/shergin/baton) - Relay-style GraphQL client for Jetpack Compose and SwiftUI
 - [bugsnag-android](https://github.com/bugsnag/bugsnag-android) - Bugsnag crash monitoring and reporting tool for Android apps
 - [material-cab](https://github.com/afollestad/material-cab) - 🚕 An Android & Kotlin library for placing and manipulating Contextual Action Bars in your UI.
 - [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView) - Android Search View based on Material design guidelines.
