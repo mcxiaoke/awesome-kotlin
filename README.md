@@ -617,6 +617,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit)
 - [Learn Kotlin while developing an Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 - [Writing Vaadin WebApps In Kotlin (I~V)](http://mavi.logdown.com/posts/1493627)
+- [Duet tutorials](https://docs.modaal.dev/tutorials/duet) - Nine tutorials that build one app with its feature logic written once in Kotlin and native SwiftUI and Jetpack Compose screens, from a first feature to CI checks, theming, localization and analytics.
 
 ## Articles
 - [Early Impressions of Kotlin](http://natpryce.com/articles/000815.html)
@@ -633,6 +634,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [Kotlin and Algebraic Data Types](https://medium.com/car2godevs/kotlin-adt-74472319962a)
 - [AdoraHack: Zero to Kotlin Hero](https://adorahack.com/category/kotlin/zero-to-kotlin-hero)
 - [Why Kotlin Is Better Than Whatever Dumb Language You're Using](https://steve-yegge.blogspot.com/2017/05/why-kotlin-is-better-than-whatever-dumb.html?m=1)
+- [How Android apps work](https://docs.modaal.dev/articles/how-android-apps-work) - The parts of a modern Android app: the APK or app bundle, the manifest, Compose screens driven by state holders, and the Gradle build.
 
 ## Videos
 
