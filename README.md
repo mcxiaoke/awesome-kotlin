@@ -515,6 +515,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [quickjs-kmp](https://github.com/HarlonWang/quickjs-kmp) - Kotlin Multiplatform bindings for the QuickJS JavaScript engine.
 - [eventbase-kt](https://github.com/HarlonWang/eventbase-kt) - Kotlin Multiplatform analytics client with typed events, an offline queue and batched upload.
 - [loginbase-kt](https://github.com/HarlonWang/loginbase-kt) - Kotlin Multiplatform auth client with email OTP, social OAuth and automatic token refresh.
+- [kotlin-ksp-mocks](https://github.com/modaal-agent/kotlin-ksp-mocks) - KSP processor that generates recording-spy mocks for Kotlin interfaces into the test compilation only.
 
 ## Applications
 
