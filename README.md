@@ -555,6 +555,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [susi_android](https://github.com/fossasia/susi_android) - SUSI.AI Android App https://play.google.com/apps/testing/ai.susi
 - [SdkSearch](https://github.com/JakeWharton/SdkSearch) - An Android app and Chrome extension for searching the Android SDK documentation.
 - [TrendingAI](https://github.com/HarlonWang/TrendingAI) - Global tech trends from GitHub Trending, Hacker News and Product Hunt, picked by AI. Kotlin Multiplatform + Compose Multiplatform (Android & iOS).
+- [Easemic](https://github.com/dirtyfancy/easemic) - Native Android comic and manga reader built with Kotlin and Jetpack Compose, supporting local CBZ/ZIP archives, self-hosted OPDS catalogs, and encrypted cloud storage streaming and backup.
 
 ## Samples
 
