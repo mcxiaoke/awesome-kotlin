@@ -556,6 +556,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [SdkSearch](https://github.com/JakeWharton/SdkSearch) - An Android app and Chrome extension for searching the Android SDK documentation.
 - [TrendingAI](https://github.com/HarlonWang/TrendingAI) - Global tech trends from GitHub Trending, Hacker News and Product Hunt, picked by AI. Kotlin Multiplatform + Compose Multiplatform (Android & iOS).
 - [TMPlayer](https://github.com/dracu-lah/TMPlayer) - Player for the videos already in your own Telegram chats on Android TV, Android phones, Windows, macOS and Linux, starting while they download. Kotlin, Compose Multiplatform and TDLib. Unofficial, not affiliated with Telegram.
+- [qkt](https://github.com/elitekaycy/qkt) - Event-driven trading engine where one declarative strategy file runs unchanged in backtest, paper and live trading (MT5 brokers, Deribit, Bybit), plus a JSON command-line interface (`qkt bot`) that lets scripts or LLM agents quote and place MT5 trades with the same journaling and tracking.
 
 ## Samples
 
