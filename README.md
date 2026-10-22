@@ -515,6 +515,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [quickjs-kmp](https://github.com/HarlonWang/quickjs-kmp) - Kotlin Multiplatform bindings for the QuickJS JavaScript engine.
 - [eventbase-kt](https://github.com/HarlonWang/eventbase-kt) - Kotlin Multiplatform analytics client with typed events, an offline queue and batched upload.
 - [loginbase-kt](https://github.com/HarlonWang/loginbase-kt) - Kotlin Multiplatform auth client with email OTP, social OAuth and automatic token refresh.
+- [ktor-guard](https://github.com/Guard-Core/ktor-guard) - Ktor plugin for IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
+- [spring-boot-guard](https://github.com/Guard-Core/spring-boot-guard) - Spring Boot integration for IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
 
 ## Applications
 
