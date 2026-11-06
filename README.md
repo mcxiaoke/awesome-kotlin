@@ -519,6 +519,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Applications
 
+- [Folio](https://github.com/Kumar-Aditya3/Folio) - Local-first ebook and manga reader for Android and Windows, built with Kotlin Multiplatform and Compose Multiplatform.
 - [DuckDuckGo](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
 - [fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
