@@ -559,6 +559,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [TMPlayer](https://github.com/dracu-lah/TMPlayer) - Player for the videos already in your own Telegram chats on Android TV, Android phones, Windows, macOS and Linux, starting while they download. Kotlin, Compose Multiplatform and TDLib. Unofficial, not affiliated with Telegram.
 - [Aster-Android](https://github.com/Aster-Privacy/Aster-Android) - End-to-end encrypted email app for Android with post-quantum protection, PGP, aliases and custom domains, built with Kotlin and Jetpack Compose.
 - [Easemic](https://github.com/dirtyfancy/easemic) - Native Android comic and manga reader built with Kotlin and Jetpack Compose, supporting local CBZ/ZIP archives, self-hosted OPDS catalogs, and encrypted cloud storage streaming and backup.
+- [SoundVisualizer](https://github.com/SOVIS-Team/SoundVisualizer-Android) - Accessibility app for deaf and hard-of-hearing people, built with Kotlin and Jetpack Compose, that shows the sound a phone is playing as a glow along the screen edges: its direction, loudness and type, sorted by an on-device sound classifier.
 
 ## Samples
 
