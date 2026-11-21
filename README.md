@@ -517,6 +517,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [eventbase-kt](https://github.com/HarlonWang/eventbase-kt) - Kotlin Multiplatform analytics client with typed events, an offline queue and batched upload.
 - [loginbase-kt](https://github.com/HarlonWang/loginbase-kt) - Kotlin Multiplatform auth client with email OTP, social OAuth and automatic token refresh.
 
+- [compose-pcm-sfx](https://github.com/simple-free-apps/compose-pcm-sfx) - Pure-Kotlin procedural 16-bit PCM AudioTrack sound-effect synthesizer library and Jetpack Compose studio (MIT, zero audio files).
+
 ## Applications
 
 - [DuckDuckGo](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
