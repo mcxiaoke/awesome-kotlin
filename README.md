@@ -516,6 +516,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [quickjs-kmp](https://github.com/HarlonWang/quickjs-kmp) - Kotlin Multiplatform bindings for the QuickJS JavaScript engine.
 - [eventbase-kt](https://github.com/HarlonWang/eventbase-kt) - Kotlin Multiplatform analytics client with typed events, an offline queue and batched upload.
 - [loginbase-kt](https://github.com/HarlonWang/loginbase-kt) - Kotlin Multiplatform auth client with email OTP, social OAuth and automatic token refresh.
+- [stack-audit](https://github.com/r1b2ns/stack-audit) - Debug inspector for Kotlin Multiplatform, Android, iOS and Flutter apps: HTTP, WebSocket, storage, SQL, analytics events and feature flags in an on-device viewer.
 
 ## Applications
 
